@@ -14,7 +14,7 @@
 
 ### Ответ:
 
-Подготовим манифесты terraform для шифрования бакета [bucket.tf](https://github.com/Mars12121/clopro-homeworks-15.3/blob/main/bucket.tf)
+Подготовим манифесты terraform для шифрования бакета [bucket.tf](https://github.com/Mars12121/clopro-homeworks-15.3/blob/main/terraform/bucket.tf)
 
 Получаем бакет с файлом
 ![alt text](https://github.com/Mars12121/clopro-homeworks-15.3/blob/main/img/1.png)
